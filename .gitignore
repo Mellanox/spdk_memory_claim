@@ -1,3 +1,5 @@
+memory_benchmark
+*.log
 # Prerequisites
 *.d
 
